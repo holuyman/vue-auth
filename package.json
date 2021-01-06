@@ -9,7 +9,7 @@
     "build-dev": "vue-cli-service build --mode development"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "codemirror": "^5.52.2",
     "core-js": "^3.6.4",
     "diff-match-patch": "^1.0.4",
